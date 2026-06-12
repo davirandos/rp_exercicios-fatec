@@ -1,10 +1,9 @@
 # importando a biblioteca random
-from random import choice
+from random import randrange
 
-# criando uma lista de frutas
-frutas = ['maçã', 'banana', 'laranja', 'uva', 'abacaxi']
+nome = input('Digite seu nome: ')
 
-# escolhendo uma fruta aleatória
-fruta_aleatoria = choice(frutas)
+# escolhendo um número aleatório
+numero_aleatorio = randrange(1000, 9998, 2)
 
-print(f'A fruta escolhida foi: {fruta_aleatoria}')
+print(f'Olá {nome}, seu número aleatório é: {numero_aleatorio}')
