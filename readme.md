@@ -1,5 +1,16 @@
-Aqui estou armazenando os exercícios/atividades feitas em sala de aula. 
+# Estudos — Faculdade
 
-A organização tem sido feita por semestres.
+Repositório destinado ao armazenamento dos exercícios, atividades e projetos desenvolvidos ao longo da minha graduação em **Análise e Desenvolvimento de Sistemas**.
 
-Até o momento, na faculdade, tive contato com tecnologias como C e Java.
+A organização do repositório é feita por **semestres**, permitindo acompanhar minha evolução acadêmica, os conteúdos estudados e os diferentes projetos desenvolvidos durante o curso. Até o momento contendo conteúdos de C, Java e Cobol.
+
+## Estrutura
+
+```text
+📁 rp_exercicios-fatec/
+│
+├── 📁 primeiro-periodo/
+├── 📁 segundo-periodo/
+├── 📁 terceiro-periodo/
+├── 📁 quarto-periodo/
+└── ...
